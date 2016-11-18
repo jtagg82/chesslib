@@ -21,6 +21,7 @@
 	</Item>
 	<Item Name="utility" Type="Folder">
 		<Item Name="Get neighbor square.vi" Type="VI" URL="../utility/Get neighbor square.vi"/>
+		<Item Name="Square to string.vi" Type="VI" URL="../utility/Square to string.vi"/>
 	</Item>
 	<Item Name="Pieces" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -40,6 +41,7 @@
 		<Item Name="Promotion.lvclass" Type="LVClass" URL="../Moves/Promotion/Promotion.lvclass"/>
 		<Item Name="Castling.lvclass" Type="LVClass" URL="../Moves/Castling/Castling.lvclass"/>
 		<Item Name="DoublePush.lvclass" Type="LVClass" URL="../Moves/DoublePush/DoublePush.lvclass"/>
+		<Item Name="CastleRestricting.lvclass" Type="LVClass" URL="../Moves/CastleRestricting/CastleRestricting.lvclass"/>
 	</Item>
 	<Item Name="Board.lvclass" Type="LVClass" URL="../Board/Board.lvclass"/>
 	<Item Name="Position.lvclass" Type="LVClass" URL="../Position/Position.lvclass"/>
